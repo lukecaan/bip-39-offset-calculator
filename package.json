@@ -1,0 +1,23 @@
+{
+  "name": "bip-39-offset-calculator",
+  "version": "1.0.0",
+  "description": "obfuscate your bip39 seed phrase with a numerical offset",
+  "main": "index.js",
+  "scripts": {
+    "encode": "node index.js encode",
+    "decode": "node index.js decode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukecaan/bip-39-offset-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukecaan/bip-39-offset-calculator/issues"
+  },
+  "homepage": "https://github.com/lukecaan/bip-39-offset-calculator#readme",
+  "dependencies": {
+    "bip39": "^3.1.0"
+  }
+}
