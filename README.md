@@ -16,4 +16,6 @@ To encode an obfuscated word list : `npm run encode {offset} {wordCount}(default
 
 To decode an obfuscated word list : `npm run decode {offset} {wordCount}(default 24)`
 
-Note : This is to be used for experimental purposes only - no guarantees are given as to the accuracy or security of this code
+## ⚠️ Note
+
+This is to be used for experimental purposes only - no guarantees are given as to the accuracy or security of this code
