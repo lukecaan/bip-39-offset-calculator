@@ -4,6 +4,8 @@ obfuscate your bip39 seed phrase with a numerical offset
 
 forces using a 4-digit offset to encourage entropy
 
+this is intended to be used with bip39's "25th word" (passcode" - just using this offset obfuscation would be easy to brute force if someone knew you were using it.
+
 ## Installation
 
 `npm install`
